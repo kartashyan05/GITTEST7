@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  font-size: 33px;
+  text-align: center;
+}
+
+.pick {
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 44px;
+}
